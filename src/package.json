@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "svelte-flex": "^1.2.1"
+  }
+}
