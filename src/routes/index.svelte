@@ -10,6 +10,7 @@
     <label for="">Resistitividad de la linea</label>
     <input type="text">
     <label for="">Longitud de la linea</label>
+    <label for="">Diametro de la linea</label>
     <input type="text">
     <label for="">Resistencia de carga</label>
     <input type="text">
