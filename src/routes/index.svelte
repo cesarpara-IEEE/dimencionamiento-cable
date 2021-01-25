@@ -20,6 +20,9 @@
     $: v_caida = parseFloat(r_carga)*parseFloat(v_fuente)/(2*res_linea + parseFloat(r_carga))
 </script>
 
+<svelte:head>
+    <title>Dimencion</title>
+</svelte:head>
 
 <h1>Dimencionamiento de lineas</h1>
 <div class="entrada">
